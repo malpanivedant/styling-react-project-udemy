@@ -1,4 +1,8 @@
-import logo from '../assets/logo.png';
+import logo from "../assets/logo.png";
+import "./Header.css";
+import { styled } from "styled-components";
+
+styled.div``;
 
 export default function Header() {
   return (
